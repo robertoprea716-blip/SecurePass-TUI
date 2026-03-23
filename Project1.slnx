@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Google_tests/Google_tests.vcxproj" Id="84da7f34-897e-4fc4-890b-89d855bc30be" />
+  <Project Path="Project1/Project1.vcxproj" Id="f1f3491f-82ec-4cb6-b325-3fce169949f1" />
+</Solution>
