@@ -47,7 +47,7 @@ The interface was developed using [FTXUI](https://arthursonzogni.github.io/FTXUI
 The registration form utilizes `Input` components to capture user data. The integration of the "Generate Password" button employs an internal generation engine to instantly produce secure 9-character strings, updating the interface state reactively.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/03d4fd99-81b8-47bd-83c9-b16f3a017584" width="500">
+  <img src="https://github.com/user-attachments/assets/c05f0063-4ec9-41a9-8c6b-01ff0f09461c" width="500">
 </p>
 
 ### 4.2. Interactive Search Engine 
