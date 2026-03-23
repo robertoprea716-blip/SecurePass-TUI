@@ -1,3 +1,4 @@
+src/
 #include "all_password.h"
 #include <iostream>
 #include <random>
