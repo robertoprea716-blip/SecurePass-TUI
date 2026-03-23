@@ -47,7 +47,7 @@ The interface was developed using a declarative model similar to the DOM used in
 The registration form utilizes `Input` components to capture user data. The integration of the **"Generate Password"** button employs an internal generation engine to instantly produce secure 9-character strings, updating the interface state reactively.
 
 <p align="center">
-  <img src="(https://github.com/user-attachments/assets/03d4fd99-81b8-47bd-83c9-b16f3a017584)" width="500">
+  <img src="https://github.com/user-attachments/assets/03d4fd99-81b8-47bd-83c9-b16f3a017584" width="500">
 </p>
 
 ### 4.2. Interactive Search Engine
@@ -57,7 +57,7 @@ The search functionality has been optimized to provide an $O(1)$ response time. 
 To prevent accidental data loss, the deletion operation (**"Drop"**) is isolated within a separate tab and requires explicit confirmation of the identifier (site), triggering a cascading deletion from both RAM and disk.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9d85-exemplu-stergere" width="500">
+  <img src="https://github.com/user-attachments/assets/2bf3f8ee-bee9-4765-864f-338e355442c5" width="500">
 </p>
 
 ---
