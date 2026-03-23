@@ -67,7 +67,7 @@ To prevent accidental data loss, the deletion operation ("Drop") is isolated wit
 ---
 
 ## 5. Testing and Quality Assurance (QA) 
-System integrity is validated through a suite of unit tests built on the [Google Test (GTest)](https://github.com/google/googletest) framework. The suite covers:
+System integrity is validated through a suite of unit tests built on the Google Test(GTest) framework. The suite covers:
 
 * **Business Logic Testing:** Validation of insertions, retrievals, and deletion operations (`AddAndVerify`, `DeleteAccount`).
 * **Generation Integrity:** Verification of entropy rigor and length limits (`PasswordGenerationLength`).
@@ -78,7 +78,7 @@ System integrity is validated through a suite of unit tests built on the [Google
 ## 6. Technologies, Dependencies, and Methodology
 
 * **Language:** **C++17** (Modern standard, utilizing `std::vector`, lambda expressions, and managed pointers).
-* **Database Engine:** **SQLite3** (Serverless, transactional).
-* **TUI Graphics:** **FTXUI**, created by Arthur Sonzogni.
+* **Database Engine:** **[SQLite3](https://www.sqlite.org/)** (Serverless, transactional).
+* **TUI Graphics:** **[FTXUI](https://arthursonzogni.github.io/FTXUI/)**, created by Arthur Sonzogni.
 * **Cryptography:** Header-only **Picosha2** library for SHA-256.
 * **AI Assistance:** During the development process, Artificial Intelligence (LLM) was utilized as a pair-programming tool for code refactoring (DRY principles), generating templates for unit tests (GTest), and the technical structuring of this documentation.
